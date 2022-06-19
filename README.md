@@ -10,9 +10,9 @@
 - Add me on Discord, **concat#3408** (843199872903544834)
 
 <h3 align='left'>Frequently used Tools & Languages:</h3>
-<a href='https://lua.org' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg' width='40' height='40'/>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40'/> </a>
 <a href='https://nodejs.org' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='40' height='40'/> </a> </p>
+<a href='https://lua.org' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg' width='40' height='40'/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ovicular&show_icons=true&locale=en&layout=compact" alt="ovicular" /></p>
 
