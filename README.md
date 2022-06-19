@@ -11,6 +11,7 @@
 
 <h3 align='left'>Frequently used Languages:</h3>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40'/> </a>
+<a href='https://luau-lang.org' target='_blank' rel='noreferrer'> <img src='https://devforum.roblox.com/t/luau-goes-open-source/1534471' width='40' height='40'/> </a>
 <a href='https://nodejs.org' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='40' height='40'/> </a>
 <a href='https://lua.org' target='_blank' rel='noreferrer'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg' width='40' height='40'/> </p>
 
